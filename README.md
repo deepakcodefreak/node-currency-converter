@@ -1,0 +1,1 @@
+This repository contains a currency converter which can be used to convert any currency to anyone and also to find names of countries where that particular currency you can use ... the special part is that we we using async-await instead of Promises
